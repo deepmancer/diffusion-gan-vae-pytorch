@@ -23,8 +23,7 @@ This repository contains implementations of several generative models, including
 
 <h3 align="center">Conditional GAN</h3>
 <p align="center">
-  <img src="images/cgan_1.png" width="800">
-  <img src="images/cgan_2.png" width="800">
+  <img src="images/cgan.png" width="800">
 </p>
 
 <h3 align="center">Diffusion Model</h3>
