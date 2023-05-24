@@ -2,6 +2,13 @@
 
 This repository contains implementations of several generative models, including VAE, GAN, Conditional GAN, Diffusion Models, and Conditional Diffusion Models.
 
+## Results
+
+<h3 align="center">Title of the Image</h3>
+<p align="center">
+  <img src="images/fashion_mnist.png" width="800">
+</p>
+
 ## Requirements
 
 To run the scripts in this repository, you will need to have the following dependencies installed:
