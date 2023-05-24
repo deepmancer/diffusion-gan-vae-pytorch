@@ -6,37 +6,37 @@ This repository contains implementations of several generative models, including
 
 <h3 align="center">Fashion MNIST</h3>
 <p align="center">
-  <img src="images/fashion_mnist.png" width="400">
+  <img src="images/fashion_mnist.png" width="600">
 </p>
 
 
 <h3 align="center">Conditional Diffusion Model</h3>
 <p align="center">
-  <img src="images/cddpm_1.png" width="400">
-  <img src="images/cddpm_2.png" width="400">
+  <img src="images/cddpm_1.png" width="600">
+  <img src="images/cddpm_2.png" width="600">
 </p>
 
 <h3 align="center">Diffusion Model</h3>
 <p align="center">
-  <img src="images/ddpm_1.png" width="400">
-  <img src="images/ddpm_2.png" width="400">
+  <img src="images/ddpm_1.png" width="600">
+  <img src="images/ddpm_2.png" width="600">
 </p>
 
 <h3 align="center">Conditional GAN</h3>
 <p align="center">
-  <img src="images/cgan.png" width="400">
+  <img src="images/cgan.png" width="600">
 </p>
 
 <h3 align="center">GAN</h3>
 <p align="center">
-  <img src="images/gan_1.png" width="400">
-  <img src="images/gan_2.png" width="400">
+  <img src="images/gan_1.png" width="600">
+  <img src="images/gan_2.png" width="600">
 </p>
 
 <h3 align="center">VAE</h3>
 <p align="center">
-  <img src="images/vae_1.png" width="400">
-  <img src="images/vae_2.png" width="400">
+  <img src="images/vae_1.png" width="600">
+  <img src="images/vae_2.png" width="600">
 </p>
 
 
