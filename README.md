@@ -4,10 +4,18 @@ This repository contains implementations of several generative models, including
 
 ## Results
 
-<h3 align="center">Title of the Image</h3>
+<h3 align="center">Fashion MNIST</h3>
 <p align="center">
   <img src="images/fashion_mnist.png" width="800">
 </p>
+
+<h3 align="center">VAE</h3>
+<p align="center">
+  <img src="images/vae_1.png" width="800">
+  <img src="images/vae_2.png" width="800">
+</p>
+
+
 
 ## Requirements
 
