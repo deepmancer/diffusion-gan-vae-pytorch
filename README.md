@@ -15,6 +15,29 @@ This repository contains implementations of several generative models, including
   <img src="images/vae_2.png" width="800">
 </p>
 
+<h3 align="center">GAN</h3>
+<p align="center">
+  <img src="images/gan_1.png" width="800">
+  <img src="images/gan_2.png" width="800">
+</p>
+
+<h3 align="center">Conditional GAN</h3>
+<p align="center">
+  <img src="images/cgan_1.png" width="800">
+  <img src="images/cgan_2.png" width="800">
+</p>
+
+<h3 align="center">Diffusion Model</h3>
+<p align="center">
+  <img src="images/ddpm_1.png" width="800">
+  <img src="images/ddpm_2.png" width="800">
+</p>
+
+<h3 align="center">Conditional Diffusion Model</h3>
+<p align="center">
+  <img src="images/cddpm_1.png" width="800">
+  <img src="images/cddpm_2.png" width="800">
+</p>
 
 
 ## Requirements
