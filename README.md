@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
 </p>
 
-Welcome to the **Diffusion-GAN-VAE-PyTorch** repository! This project contains PyTorch implementations of various deep generative models, including Variational Autoencoders (VAE), Generative Adversarial Networks (GAN), Conditional GANs, Diffusion Models, and Conditional Diffusion Models. Explore the power of these models through code and stunning visualizations!
+Welcome to the **Diffusion-GAN-VAE-PyTorch** repository! This project contains PyTorch implementations (from scratch) of various deep generative models, including Variational Autoencoders (VAE), Generative Adversarial Networks (GAN), Conditional GANs, Diffusion Models, and Conditional Diffusion Models. Explore the power of these models through code and stunning visualizations!
 
 ---
 
