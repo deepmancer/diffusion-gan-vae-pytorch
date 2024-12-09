@@ -11,9 +11,14 @@
 
 > Master deep generative models in PyTorch with ease!
 
-## 🚀 Overview
-
 Welcome to **Diffusion-GAN-VAE-PyTorch**! This repository is your ultimate resource for mastering deep generative models, implemented from scratch in PyTorch. It features **Variational Autoencoders (VAE)**, **Generative Adversarial Networks (GAN)**, **Conditional GANs**, **Diffusion Models**, and **Conditional Diffusion Models**, all crafted with clarity and precision. 
+
+## 🌟 Highlights
+
+- 🧩 Modular & Educational
+- 🔍 Explore Cutting-Edge Models
+- 💡 Beginner-Friendly Yet Research-Ready
+- 📕 Fully documented
 
 👉 **[Star this repo](https://github.com/deepmancer/diffusion-gan-vae-pytorch/stargazers)** if you find it helpful, and join our community of AI enthusiasts!
 
@@ -76,7 +81,7 @@ pip install torch numpy matplotlib tqdm
 
 ---
 
-## 🔍 Models Overview
+## 🌀 Models Overview
 
 ### 🔹 Variational Autoencoder (VAE)
 A **VAE** learns a probabilistic latent space, enabling smooth interpolation and robust generation of new data points.
@@ -103,7 +108,7 @@ Building on diffusion models, **Conditional Diffusion Models** allow for guided,
    cd diffusion-gan-vae-pytorch
    ```
 
-2. Install dependencies (see above).
+2. Install dependencies.
 
 3. Run the notebook!
 
