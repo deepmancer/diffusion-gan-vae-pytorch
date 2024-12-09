@@ -13,6 +13,14 @@
 
 Welcome to **Diffusion-GAN-VAE-PyTorch**! This repository is your ultimate resource for mastering deep generative models, implemented from scratch in PyTorch. It features **Variational Autoencoders (VAE)**, **Generative Adversarial Networks (GAN)**, **Conditional GANs**, **Diffusion Models**, and **Conditional Diffusion Models**, all crafted with clarity and precision. 
 
+---
+
+| **Source Code** | **Website** |
+|:-----------------|:------------|
+| <a href="https://github.com/deepmancer/diffusion-gan-vae-pytorch" target="_blank">github.com/deepmancer/diffusion-gan-vae-pytorch</a> | <a href="https://deepmancer.github.io/diffusion-gan-vae-pytorch/" target="_blank">deepmancer.github.io/diffusion-gan-vae-pytorch</a> |
+
+---
+
 ## 🌟 Highlights
 
 - 🧩 Modular & Educational
