@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
   <img src="https://img.shields.io/github/stars/deepmancer/diffusion-gan-vae-pytorch?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/deepmancer/diffusion-gan-vae-pytorch?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/license/deepmancer/diffusion-gan-vae-pytorch" alt="License">
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="License">
 </p>
 
 > Master deep generative models in PyTorch with ease!
