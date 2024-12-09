@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/github/license/deepmancer/diffusion-gan-vae-pytorch" alt="License">
 </p>
 
+> Master deep generative models in PyTorch with ease!
+
 ## 🚀 Overview
 
 Welcome to **Diffusion-GAN-VAE-PyTorch**! This repository is your ultimate resource for mastering deep generative models, implemented from scratch in PyTorch. It features **Variational Autoencoders (VAE)**, **Generative Adversarial Networks (GAN)**, **Conditional GANs**, **Diffusion Models**, and **Conditional Diffusion Models**, all crafted with clarity and precision. 
